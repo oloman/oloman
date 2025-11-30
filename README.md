@@ -15,19 +15,9 @@
 - ✅ Políglota: Java, C+, Kotlin, Javascript, HTML, CSS... 
 
 
-Cartagena, Región de Murcia, España 
-
-
 <div align="center">
   
-```
-<blockquote>
-  Enseñar es mi pasión,
-  programar un pasatiempo y
-  ser Experto de Google...
-  otra historia.  
-</blockquote>  	
-```
+  Cartagena, Región de Murcia, España 
 
   
 |🎓🏆🥇🏅 |Reconocimientos y premios|
@@ -42,6 +32,16 @@ Cartagena, Región de Murcia, España
 |20Blogs|2009 🥈 Segundo premio Público|
 |20Blogs|2009 🥇 Primer premio Diseño|
 |20Blogs|2009 🥇Primer premio Categoría Tecnología|
+
+ 
+```
+<blockquote>
+  Enseñar es mi pasión,
+  programar un pasatiempo y
+  ser Experto de Google...
+  otra historia.  
+</blockquote>  	
+```
 
 </div>
 
@@ -60,13 +60,16 @@ Cartagena, Región de Murcia, España
 <div align="center">
   
 ## Manolo Sánchez (Oloman) 
+
 ---
 
+
+
+---
 [![linkedin](https://github.com/user-attachments/assets/2255f0b8-37e4-4b70-a95a-b9d416a32c97)](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")   
 [Más info](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")
 
-[![gmail](https://github.com/user-attachments/assets/95c9361d-c732-4148-a21a-6c1ea41d771f)](mailto:13810453@alu.murciaeduca.es "Contacta")  
-[13810453@alu.murciaeduca.es](mailto:13810453@alu.murciaeduca.es "Contacta")
+
 
 ![Escanéame](https://github.com/user-attachments/assets/088a55d9-5d38-4d20-b5d6-496188c749ab "Escanéame")
 
@@ -74,6 +77,12 @@ Cartagena, Región de Murcia, España
 
 
 <!--
+CORREO
+[![gmail](https://github.com/user-attachments/assets/95c9361d-c732-4148-a21a-6c1ea41d771f)](mailto:13810453@alu.murciaeduca.es "Contacta")  
+[13810453@alu.murciaeduca.es](mailto:13810453@alu.murciaeduca.es "Contacta")
+
+
+ICONOS STACK
 ![c](https://github.com/user-attachments/assets/836b3cab-50e3-4660-b59c-c66891ae5ca9)
 ![php](https://github.com/user-attachments/assets/efefc287-bfb8-4a82-88cb-3a964022c7d5)
 ![Python-logo-notext svg](https://github.com/user-attachments/assets/44a93be0-0440-418e-a1c1-0a0b74aab545)
@@ -88,7 +97,7 @@ Cartagena, Región de Murcia, España
 ![Visual_Studio_Code_1 35_icon svg](https://github.com/user-attachments/assets/fc3ba650-6c4f-4b18-851e-8ea1f7275fc7)
 ![notepad](https://github.com/user-attachments/assets/228b1e6b-3ba1-42bf-9151-7b5dd68fd6f9)
 
-
+OTROS
 <br/>
 <a name="item3"></a>
 
