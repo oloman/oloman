@@ -55,16 +55,20 @@
 
 ---
 
-<div align="center">
-  
-|⭕ Algunas coaas|
+|⭕ Algunos entrenimientos|
 |---|
 
-[![singenio](https://github.com/user-attachments/assets/0792b00c-4a3d-4799-9446-f02f6c37e1a7)](http://singenio.com "Juego URL riddle")   
+<div align="center">
+
 
 [![oloblogger](https://github.com/user-attachments/assets/446b8f9f-77a1-4264-8af7-6d8ef6fdaf2c)](https://oloblogger.com "Blog experto en Blogger")
 
 [![musicaememorandum](https://github.com/user-attachments/assets/83a1fa09-130a-4580-9c1f-156ba83ca61d)](https://musicaememorandum.blogspot.com "Música de otro siglo")
+
+[![singenio](https://github.com/user-attachments/assets/0792b00c-4a3d-4799-9446-f02f6c37e1a7)](http://singenio.com "Juego URL riddle")   
+
+|⭕ [Y otras cosas hechas para otros ](https://www.oloblogger.com/p/disenos-oloblogger.html "Trabajillos")|
+|---|
 
 </div>
 ---
