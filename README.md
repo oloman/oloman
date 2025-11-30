@@ -31,7 +31,10 @@
 |20Blogs|2009 🥇 Primer premio Diseño|
 |20Blogs|2009 🥇Primer premio Categoría Tecnología|
 
- 
+</div>
+
+<div align="center">
+  
 ```
 <blockquote>
   Enseñar es mi pasión,
