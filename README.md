@@ -46,7 +46,7 @@ Cartagena, Región de Murcia, España
 
 ---
 
-[Comentado
+<!--
 ![c](https://github.com/user-attachments/assets/836b3cab-50e3-4660-b59c-c66891ae5ca9)
 ![php](https://github.com/user-attachments/assets/efefc287-bfb8-4a82-88cb-3a964022c7d5)
 ![Python-logo-notext svg](https://github.com/user-attachments/assets/44a93be0-0440-418e-a1c1-0a0b74aab545)
@@ -60,7 +60,7 @@ Cartagena, Región de Murcia, España
 ![codepen-square-icon-256x256-bh3834az](https://github.com/user-attachments/assets/c67c8d27-15c4-48f1-aeb7-2e6c3d557820)
 ![Visual_Studio_Code_1 35_icon svg](https://github.com/user-attachments/assets/fc3ba650-6c4f-4b18-851e-8ea1f7275fc7)
 ![notepad](https://github.com/user-attachments/assets/228b1e6b-3ba1-42bf-9151-7b5dd68fd6f9)
-]: # 
+-->
 
 
 
