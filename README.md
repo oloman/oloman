@@ -57,24 +57,31 @@
 
 ---
 
+
+[![singenio](https://github.com/user-attachments/assets/0792b00c-4a3d-4799-9446-f02f6c37e1a7)](http://singenio.com "Juego URL riddle")   
+
+[![oloblogger](https://github.com/user-attachments/assets/446b8f9f-77a1-4264-8af7-6d8ef6fdaf2c)](https://oloblogger.com "Blog experto en Blogger")
+
+---
+
 <div align="center">
   
 ## Manolo Sánchez (Oloman) 
 
----
-
-
-
----
 [![linkedin](https://github.com/user-attachments/assets/2255f0b8-37e4-4b70-a95a-b9d416a32c97)](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")   
 [Más info](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")
 
-
+---
 
 ![Escanéame](https://github.com/user-attachments/assets/088a55d9-5d38-4d20-b5d6-496188c749ab "Escanéame")
 
 </div>
 
+<div align="center">
+  
+[![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
+
+</div>
 
 <!--
 CORREO
