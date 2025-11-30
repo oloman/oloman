@@ -3,10 +3,12 @@
 [![Bienvenid@ a mi espacio](https://github.com/user-attachments/assets/860669c2-47f5-422f-805a-204c66ccf359)](https://github.com/Oloman-B "Bienvenid@ a mi espacio")
 
 |Multidisciplinar| 
+|---|
 - [x] Formador. 
-- [x] Google Product Expert.
-- [x] Especialista TPV y e Commerce. 
-- [x] Asesor de Inversiones.
+- [x] Google Product Expert
+- [x] Experto plataforma Blogger
+- [x] Especialista TPV y e Commerce.
+- [x] Asesor de Inversiones
 
 Cartagena, Región de Murcia, España 
 
