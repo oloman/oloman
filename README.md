@@ -77,11 +77,9 @@
 <div align="center">
   
 ## Manolo Sánchez (Oloman) 
-
 Cartagena, Región de Murcia, España 
 
 [![linkedin](https://github.com/user-attachments/assets/2255f0b8-37e4-4b70-a95a-b9d416a32c97)](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")   
-[Más info](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")
 
 ---
 
