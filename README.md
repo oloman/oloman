@@ -7,10 +7,13 @@
   
 </div>
 
-- ✅ Formador 
+|Tecnología - Formación - Finanzas|
+|---|
+
 - ✅ Google Product Expert 
-- ✅ Experto plataforma Blogger 
 - ✅ Especialista TPV y e Commerce 
+- ✅ Formador 
+- ✅ Experto plataforma Blogger 
 - ✅ Asesor de Inversiones 
 - ✅ Políglota: Java, C+, Kotlin, Javascript, HTML, CSS... 
 
